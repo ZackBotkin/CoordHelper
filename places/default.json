@@ -1,0 +1,276 @@
+[{
+    "x": 1230,
+    "z": 1630,
+    "size": 10,
+    "symbol": "first overworld entrance to the end"
+},
+{
+    "x": 241,
+    "z": -75,
+    "size": 30,
+    "symbol": "initial spawn",
+    "type": "base",
+    "color": "purple"
+},
+{
+    "x": -1610,
+    "z": 18250,
+    "size": 30,
+    "symbol": "new life",
+    "type": "base",
+    "color": "purple"
+},
+{
+    "x": 818,
+    "z": -2017,
+    "size": 10,
+    "symbol": "2nd overworld entrance to the end"
+},
+{
+    "x": 1612,
+    "z": -1922,
+    "size": 20,
+    "symbol": "hamilton",
+    "type": "town",
+    "color": "green"
+},
+{
+    "x": 225,
+    "z": -1251,
+    "size": 10,
+    "symbol": "unnamed desert village",
+    "type": "town",
+    "color": "green"
+},
+{
+    "x": 1359,
+    "z": -2982,
+    "size": 10,
+    "symbol": "bayside",
+    "type": "town",
+    "color": "green"
+},
+{
+    "x": 4215,
+    "z": -2450,
+    "size": 10,
+    "symbol": "unnamed snow village",
+    "type": "town",
+    "color": "green"
+},
+{
+    "x": 4540,
+    "z": -2368,
+    "size": 10,
+    "symbol": "unnamed snow village",
+    "type": "town",
+    "color": "green"
+},
+{
+    "x": 3558,
+    "z": -2235,
+    "size": 10,
+    "symbol": "unnamed snow village",
+    "type": "town",
+    "color": "green"
+},
+{
+    "x": 47,
+    "z": -68,
+    "size": 10,
+    "symbol": "raid farm",
+    "type": "build",
+    "color": "yellow"
+},
+{
+    "x": 2003,
+    "z": -2482,
+    "size": 10,
+    "symbol": "paper factory",
+    "type": "build",
+    "color": "yellow"
+},
+{
+    "x": 1853,
+    "z": -2467,
+    "size": 10,
+    "symbol": "my house",
+    "type": "build",
+    "color": "yellow"
+},
+{
+    "x": 306,
+    "z": 178,
+    "size": 10,
+    "symbol": "pumpkin tower",
+    "type": "build",
+    "color": "yellow"
+},
+{
+    "x": -716,
+    "z": -323,
+    "size": 10,
+    "symbol": "edison island cottage",
+    "type": "build",
+    "color": "yellow"
+},
+{
+    "x": 2059,
+    "z": -2365,
+    "size": 30,
+    "symbol": "snowbase",
+    "type": "base",
+    "color": "purple"
+},
+{
+    "x": 4144,
+    "z": -4200,
+    "size": 10,
+    "symbol": "mansion"
+},
+{
+    "x": 4546,
+    "z": -842,
+    "size": 10,
+    "symbol": "eastern base near the cool cliff formation",
+    "type": "base",
+    "color": "purple"
+},
+{
+    "x": -1401,
+    "z": -2176,
+    "size": 10,
+    "symbol": "pillager outpost #1"
+},
+{
+    "x": -2310,
+    "z": 19111,
+    "size": 10,
+    "symbol": "new life pillager outpost"
+},
+{
+    "x": 1647,
+    "z": -3231,
+    "size": 10,
+    "symbol": "water temple (defeated)"
+},
+{
+    "x": 4959,
+    "z": -1151,
+    "size": 10,
+    "symbol": "water temple"
+},
+{
+    "x": 4766,
+    "z": -575,
+    "size": 10,
+    "symbol": "water temple"
+},
+{
+    "x": -818,
+    "z": -5651,
+    "size": 10,
+    "symbol": "mooshroom island"
+},
+{
+    "x": -1236,
+    "z": 2030,
+    "size": 10,
+    "symbol": "northern cliffside base",
+    "type": "base",
+    "color": "purple"
+},
+{
+    "x": 1447,
+    "z": -2188,
+    "size": 10,
+    "symbol": "gribble",
+    "type": "town",
+    "color": "green"
+},
+{
+    "x": 1511,
+    "z": -1728,
+    "size": 10,
+    "symbol": "ancient city entrance"
+},
+{
+    "x": 1295,
+    "z": -1337,
+    "size": 10,
+    "symbol": "roadside farm",
+    "type": "build",
+    "color": "yellow"
+},
+{
+    "x": 1247,
+    "z": -1173,
+    "size": 10,
+    "symbol": "horse pen",
+    "type": "build",
+    "color": "yellow"
+},
+{
+    "x": 1544,
+    "z": -836,
+    "size": 10,
+    "symbol": "jungleside minibase",
+    "type": "base",
+    "color": "purple"
+},
+{
+    "x": 1109,
+    "z": -644,
+    "size": 10,
+    "symbol": "humpchicken village",
+    "type": "town",
+    "color": "green"
+},
+{
+    "x": 2278,
+    "z": -1281,
+    "size": 10,
+    "symbol": "unnamed village",
+    "type": "town",
+    "color": "green"
+},
+{
+    "x": 2027,
+    "z": -1407,
+    "size": 10,
+    "symbol": "unnamed village",
+    "type": "town",
+    "color": "green"
+},
+{
+    "x": 3411,
+    "z": -1658,
+    "size": 10,
+    "symbol": "unnamed village",
+    "type": "town",
+    "color": "green"
+},
+{
+    "x": 3620,
+    "z": -1438,
+    "size": 10,
+    "symbol": "unnamed village",
+    "type": "town",
+    "color": "green"
+},
+{
+    "x": 939,
+    "z": -997,
+    "size": 10,
+    "symbol": "midpoint house",
+    "type": "build",
+    "color": "yellow"
+},
+{
+    "x": 310,
+    "z": -648,
+    "size": 10,
+    "symbol": "junglesedge",
+    "type": "town",
+    "color": "green"
+}]
