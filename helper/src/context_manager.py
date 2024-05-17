@@ -18,10 +18,11 @@ text = list(map(lambda row: row["symbol"], data))
 symbols = list(map(lambda row: row["type"] if "type" in row else "other", data))
 colors = list(map(lambda row: row["color"] if "color" in row else "blue", data))
 
-class CoordHelper(object):
+class ContextManager(object):
 
-    def __init__(self):
-        pass
+    def __init__(self, configs):
+        self.config = configs
+        ## TODO : query runner stuff
 
     def figure(self):
         fig = px.scatter(
