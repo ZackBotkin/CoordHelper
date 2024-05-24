@@ -72,8 +72,10 @@ class ContextManager(object):
     def read_coords(self):
         print("Reading coords")
 
-    def add_coords(self):
-        pass
+    def add_location(self, name, x_coord, y_coord, z_coord, _type, color, size):
+        self.query_runner.insert_location(
+            name, x_coord, y_coord, z_coord, _type, color, size
+        )
 
     def migrate_data(self):
         for location in data:
