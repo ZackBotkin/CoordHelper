@@ -12,7 +12,7 @@ class MainMenu(InteractiveMenu):
         ]
 
     def title(self):
-        return "Main"
+        return "Coord Helper"
 
 
 class AddMenu(InteractiveMenu):
