@@ -8,6 +8,7 @@ class MainMenu(InteractiveMenu):
         self.sub_menu_modules = [
             AddMenu(manager, self.path),
             ShowMenu(manager, self.path),
+            #MigrateMenu(manager, self.path)
         ]
 
     def title(self):
@@ -36,4 +37,16 @@ class ShowMenu(InteractiveMenu):
 
     def main_loop(self):
         self.manager.figure()
+
+
+class MigrateMenu(InteractiveMenu):
+
+    def __init__(self, manager, path=[]):
+        super().__init__(manager, path)
+
+    def title(self):
+        return "Migrate"
+
+    def main_loop(self):
+        self.manager.migrate_data()
 
