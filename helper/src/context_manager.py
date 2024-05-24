@@ -33,6 +33,15 @@ class ContextManager(object):
 
         all_locations = self.query_runner.get_all_locations()
         for location in all_locations:
+            if self.config.get('apply_border_limits') == True:
+                if location[1] > self.config.get('east_border_limit'):
+                    continue
+                if location[1] < self.config.get('west_border_limit'):
+                    continue
+                if location[3] > self.config.get('north_border_limit'):
+                    continue
+                if location[3] < self.config.get('south_border_limit'):
+                    continue
             text.append(location[0])
             X.append(location[1])
             Y.append(location[2])

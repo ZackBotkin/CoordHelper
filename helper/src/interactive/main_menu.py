@@ -8,7 +8,7 @@ class MainMenu(InteractiveMenu):
         self.sub_menu_modules = [
             AddMenu(manager, self.path),
             ShowMenu(manager, self.path),
-            MigrateMenu(manager, self.path)
+            #MigrateMenu(manager, self.path)
         ]
 
     def title(self):
